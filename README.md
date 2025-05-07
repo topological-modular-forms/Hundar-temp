@@ -1,16 +1,5 @@
 # Lazy Darwin
 
-[![][Fontbakery]](https://The-EPL-Type-Foundry.github.io/EPL-Darwin.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://The-EPL-Type-Foundry.github.io/EPL-Darwin.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://The-EPL-Type-Foundry.github.io/EPL-Darwin.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://The-EPL-Type-Foundry.github.io/EPL-Darwin.git/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FThe-EPL-Type-Foundry%2FEPL-Darwin.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FThe-EPL-Type-Foundry%2FEPL-Darwin.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FThe-EPL-Type-Foundry%2FEPL-Darwin.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FThe-EPL-Type-Foundry%2FEPL-Darwin.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FThe-EPL-Type-Foundry%2FEPL-Darwin.git%2Fgh-pages%2Fbadges%2FUniversal.json
-
 Lazy Darwin is a free and open-source ty­pe­fa­ce intended for book and article writing, with a particular focus on aca­de­mic and scientific usage. The typeface aims to cover a very wide range of languages, as well as provide support for specialist usage in subjects like medievalist studies and linguistics. Lazy Darwin will also come in several different optical sizes, as well as have an accompanying math font.
 
 ![Sample Image](documentation/logo.png)
