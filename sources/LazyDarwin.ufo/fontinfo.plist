@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>707</integer>
+  <integer>658</integer>
   <key>capHeight</key>
-  <integer>650</integer>
+  <integer>606</integer>
   <key>descender</key>
-  <integer>-301</integer>
+  <integer>-280</integer>
   <key>familyName</key>
   <string>Lazy Darwin</string>
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
-  <string>2025/05/07 14:12:26</string>
+  <string>2025/05/07 19:00:22</string>
   <key>openTypeHheaAscender</key>
-  <integer>917</integer>
+  <integer>854</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-350</integer>
+  <integer>-326</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNamePreferredSubfamilyName</key>
@@ -27,9 +27,9 @@
     <integer>7</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>917</integer>
+  <integer>854</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-350</integer>
+  <integer>-326</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2WeightClass</key>
@@ -39,24 +39,24 @@
   <key>openTypeOS2WinAscent</key>
   <integer>0</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>301</integer>
+  <integer>280</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-16</integer>
+    <integer>-15</integer>
     <integer>0</integer>
-    <integer>425</integer>
-    <integer>441</integer>
-    <integer>650</integer>
-    <integer>666</integer>
-    <integer>707</integer>
-    <integer>723</integer>
+    <integer>396</integer>
+    <integer>411</integer>
+    <integer>606</integer>
+    <integer>621</integer>
+    <integer>658</integer>
+    <integer>673</integer>
   </array>
   <key>postscriptFontName</key>
   <string>LazyDarwin-Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
-    <integer>-317</integer>
-    <integer>-301</integer>
+    <integer>-295</integer>
+    <integer>-280</integer>
   </array>
   <key>styleMapStyleName</key>
   <string>regular</string>
@@ -69,6 +69,6 @@
   <key>versionMinor</key>
   <integer>1</integer>
   <key>xHeight</key>
-  <integer>425</integer>
+  <integer>396</integer>
 </dict>
 </plist>

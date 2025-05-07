@@ -4,4 +4,4 @@
 #
 # Names should be added to this file as:
 # Name or Organization <email address>
-Emily de Oliveira Santos emily.de.oliveira.santos.tmf@gmail.com
+Emily de Oliveira Santos <emily.de.oliveira.santos.tmf@gmail.com>
