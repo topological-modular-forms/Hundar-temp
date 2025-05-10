@@ -13,7 +13,7 @@
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
-  <string>2025/05/07 19:00:46</string>
+  <string>2025/05/10 18:25:42</string>
   <key>openTypeHheaAscender</key>
   <integer>854</integer>
   <key>openTypeHheaDescender</key>
@@ -57,6 +57,14 @@
   <array>
     <integer>-295</integer>
     <integer>-280</integer>
+  </array>
+  <key>postscriptStemSnapH</key>
+  <array>
+    <integer>43</integer>
+  </array>
+  <key>postscriptStemSnapV</key>
+  <array>
+    <integer>86</integer>
   </array>
   <key>styleMapStyleName</key>
   <string>regular</string>
