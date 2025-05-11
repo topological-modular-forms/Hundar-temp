@@ -36,7 +36,10 @@ cefghijklmnorstuvwxyz
 This or /T.001/h.001/i.001/s.001 ?
 
 T
-abdpqhk</string>
+abdpqdk/k.traditional 
+working is key to know
+/a.001/b.001/d.001/p.001/q.001/k.001</string>
+    <string>/a.001/b.001/d.001/k.001/p.001/q.001</string>
   </array>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3414</string>
@@ -483,6 +486,7 @@ abdpqhk</string>
     <string>r.001</string>
     <string>s.001</string>
     <string>t.001</string>
+    <string>k.traditional</string>
     <string>u.001</string>
     <string>v.001</string>
     <string>w.001</string>
