@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d.001" format="2">
-  <advance width="486"/>
+  <advance width="487"/>
   <note>
 d
 </note>
@@ -66,4 +66,10 @@ d
       <point x="266" y="45"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-11 21:53:00 +0000</string>
+    </dict>
+  </lib>
 </glyph>

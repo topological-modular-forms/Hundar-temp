@@ -38,17 +38,17 @@ k
       <point x="276" y="309"/>
       <point x="190" y="237"/>
       <point x="167" y="221" type="curve"/>
-      <point x="167" y="371" type="line" smooth="yes"/>
-      <point x="167" y="537"/>
-      <point x="176" y="596"/>
-      <point x="192" y="651" type="curve"/>
-      <point x="160" y="662"/>
-      <point x="63" y="666"/>
-      <point x="24" y="654" type="curve"/>
-      <point x="19" y="625" type="line"/>
-      <point x="86" y="613"/>
-      <point x="94" y="608"/>
-      <point x="94" y="531" type="curve"/>
+      <point x="167" y="488" type="line" smooth="yes"/>
+      <point x="167" y="549"/>
+      <point x="176" y="603"/>
+      <point x="192" y="647" type="curve"/>
+      <point x="160" y="656"/>
+      <point x="63" y="663"/>
+      <point x="24" y="653" type="curve"/>
+      <point x="19" y="624" type="line"/>
+      <point x="86" y="612"/>
+      <point x="94" y="604"/>
+      <point x="94" y="527" type="curve"/>
       <point x="94" y="117" type="line"/>
       <point x="94" y="60"/>
       <point x="79" y="39"/>
@@ -65,7 +65,7 @@ k
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-11 02:48:03 +0000</string>
+      <string>2025-05-11 18:59:11 +0000</string>
     </dict>
   </lib>
 </glyph>
