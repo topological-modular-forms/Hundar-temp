@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="217"/>
+  <unicode hex="0021"/>
+  <note>
+exclam
+</note>
+  <outline>
+    <contour>
+      <point x="55" y="614" type="curve"/>
+      <point x="69" y="501"/>
+      <point x="78" y="337"/>
+      <point x="78" y="214" type="curve" smooth="yes"/>
+      <point x="78" y="167" type="line"/>
+      <point x="96" y="167"/>
+      <point x="127" y="171"/>
+      <point x="139" y="177" type="curve"/>
+      <point x="139" y="259" type="line" smooth="yes"/>
+      <point x="139" y="373"/>
+      <point x="142" y="525"/>
+      <point x="153" y="630" type="curve"/>
+      <point x="128" y="630"/>
+      <point x="78" y="625"/>
+    </contour>
+    <contour>
+      <point x="171" y="72" type="curve"/>
+      <point x="154" y="92"/>
+      <point x="119" y="112"/>
+      <point x="93" y="115" type="curve"/>
+      <point x="71" y="96"/>
+      <point x="51" y="63"/>
+      <point x="46" y="33" type="curve"/>
+      <point x="61" y="14"/>
+      <point x="94" y="-5"/>
+      <point x="125" y="-10" type="curve"/>
+      <point x="143" y="6"/>
+      <point x="167" y="43"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-07 19:45:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

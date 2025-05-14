@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+  <advance width="533"/>
+  <unicode hex="003C"/>
+  <note>
+less
+</note>
+  <outline>
+    <contour>
+      <point x="456" y="377" type="curve"/>
+      <point x="459" y="396"/>
+      <point x="454" y="427"/>
+      <point x="448" y="446" type="curve"/>
+      <point x="390" y="413"/>
+      <point x="133" y="282"/>
+      <point x="74" y="261" type="curve"/>
+      <point x="68" y="242"/>
+      <point x="63" y="224"/>
+      <point x="61" y="205" type="curve"/>
+      <point x="155" y="162"/>
+      <point x="244" y="116"/>
+      <point x="437" y="10" type="curve"/>
+      <point x="449" y="22"/>
+      <point x="462" y="51"/>
+      <point x="465" y="71" type="curve"/>
+      <point x="419" y="88"/>
+      <point x="247" y="174"/>
+      <point x="142" y="227" type="curve"/>
+      <point x="142" y="229"/>
+      <point x="144" y="235"/>
+      <point x="146" y="236" type="curve"/>
+      <point x="249" y="286"/>
+      <point x="414" y="360"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-07 19:45:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

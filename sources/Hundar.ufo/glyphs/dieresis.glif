@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="414"/>
+  <unicode hex="00A8"/>
+  <note>
+dieresis
+</note>
+  <outline>
+    <contour>
+      <point x="179" y="525" type="curve"/>
+      <point x="167" y="539"/>
+      <point x="142" y="553"/>
+      <point x="123" y="556" type="curve"/>
+      <point x="106" y="543"/>
+      <point x="92" y="519"/>
+      <point x="88" y="496" type="curve"/>
+      <point x="99" y="482"/>
+      <point x="124" y="469"/>
+      <point x="145" y="465" type="curve"/>
+      <point x="158" y="477"/>
+      <point x="175" y="504"/>
+    </contour>
+    <contour>
+      <point x="321" y="525" type="curve"/>
+      <point x="309" y="539"/>
+      <point x="284" y="553"/>
+      <point x="265" y="556" type="curve"/>
+      <point x="249" y="543"/>
+      <point x="235" y="519"/>
+      <point x="230" y="496" type="curve"/>
+      <point x="241" y="482"/>
+      <point x="266" y="469"/>
+      <point x="288" y="465" type="curve"/>
+      <point x="301" y="477"/>
+      <point x="317" y="504"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-07 19:45:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>
