@@ -33,27 +33,14 @@ Z/Z.001
 
 cefghijklmnorstuvwxyz
 /a.001/b.001/c.001/e.001/f.001/g.001/h.001/i.001/j.001/k.001/l.001 t/m.001/n.001/o.001/r.001/s.001/t.001/u.001/v.001/w.001/x.001/y.001/z.001 
-This or /T.001/h.001/i.001/s.001 ?
+paT This, /T.002 his, or /T.001/h.001/i.001/s.001 ?
 future formalization
 efeito fulvio
 
-abcdefpqko
-/a.001/b.001/c.001/d.001/e.001/f.001/p.001/q.001/o.001 
+abcdefpqkoT
+/a.001/b.001/c.001/d.001/e.001/f.001/p.001/q.001/k.001/o.001/T.001 
 quasicoherent prism
-/q.001 uasicoherent /p.001/r.001/i.001/s.001 m
-
-/a.001/b.001/c.001/o.001/d.001/f.001/e.001/p.001/q.001 
-
-
-
-working is key to know a stack 
-
-woring is ey to now a stac
-
-the king lacks keys
-
-the ing lacs eys
-lkh</string>
+/q.001 uasicoherent /p.001/r.001/i.001/s.001 m</string>
   </array>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3414</string>
@@ -474,6 +461,7 @@ lkh</string>
     <string>R.001</string>
     <string>S.001</string>
     <string>T.001</string>
+    <string>T.002</string>
     <string>U.001</string>
     <string>V.001</string>
     <string>W.001</string>
