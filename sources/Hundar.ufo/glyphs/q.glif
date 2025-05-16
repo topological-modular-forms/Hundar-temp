@@ -9,7 +9,7 @@ q
     <contour>
       <point x="327" y="-182" type="curve" smooth="yes"/>
       <point x="323" y="-223"/>
-      <point x="298" y="-241"/>
+      <point x="300" y="-244"/>
       <point x="262" y="-258" type="curve"/>
       <point x="261" y="-286" type="line"/>
       <point x="319" y="-272"/>
@@ -61,7 +61,7 @@ q
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-14 22:49:33 +0000</string>
+      <string>2025-05-16 04:10:18 +0000</string>
     </dict>
   </lib>
 </glyph>
