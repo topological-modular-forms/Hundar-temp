@@ -4,44 +4,12 @@
 <dict>
   <key>com.schriftgestaltung.DisplayStrings</key>
   <array>
-    <string>A/A.001 
-B/B.001 
-C/C.001 
-D/D.001 
-E/E.001 
-F/F.001 
-G/G.001 
-THE/H.001 
-I/I.001 
-J/J.001 
-K/K.001 
-L/L.001 
-M/M.001 
-N/N.001 
-O/O.001 
-P/P.001 
-Q/Q.001 
-R/R.001 
-S/S.001 
-This or /T.001 his?
-U/U.001 
-V/V.001 
-W/W.001 
-X/X.001 
-Y/Y.001 
-Z/Z.001 
-
-cefghijklmnorstuvwxyz
-/a.001/b.001/c.001/e.001/f.001/g.001/h.001/i.001/j.001/k.001/l.001 t/m.001/n.001/o.001/r.001/s.001/t.001/u.001/v.001/w.001/x.001/y.001/z.001 
-paT This, /T.002 his, or /T.001/h.001/i.001/s.001 ?
-future formalization
-efeito fulvio
-
-abcdefpqkoT
-/a.001/b.001/c.001/d.001/e.001/f.001/p.001/q.001/k.001/o.001/T.001 
-quasicoherent prism
-/q.001 uasicoherent /p.001/r.001/i.001/s.001 m
-</string>
+    <string>eat after sex feed
+/sandbox at aft/sandbox r s/sandbox x f/sandbox/sandbox d
+certain
+c/sandbox rtain
+abcdec/sandbox 
+prism</string>
   </array>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3414</string>
@@ -470,8 +438,11 @@ quasicoherent prism
     <string>Y.001</string>
     <string>Z.001</string>
     <string>a.001</string>
+    <string>a.002</string>
     <string>b.001</string>
     <string>c.001</string>
+    <string>c.002</string>
+    <string>c.003</string>
     <string>d.001</string>
     <string>e.001</string>
     <string>f.001</string>
@@ -482,7 +453,9 @@ quasicoherent prism
     <string>k.001</string>
     <string>l.001</string>
     <string>m.001</string>
+    <string>m.002</string>
     <string>n.001</string>
+    <string>n.002</string>
     <string>o.001</string>
     <string>p.001</string>
     <string>q.001</string>
@@ -495,6 +468,12 @@ quasicoherent prism
     <string>x.001</string>
     <string>y.001</string>
     <string>z.001</string>
+    <string>sandbox</string>
   </array>
+  <key>public.postscriptNames</key>
+  <dict>
+    <key>sandbox</key>
+    <string>c.004</string>
+  </dict>
 </dict>
 </plist>

@@ -114,6 +114,8 @@
   <string>a.glif</string>
   <key>a.001</key>
   <string>a.001.glif</string>
+  <key>a.002</key>
+  <string>a.002.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
   <key>ampersand</key>
@@ -150,6 +152,10 @@
   <string>c.glif</string>
   <key>c.001</key>
   <string>c.001.glif</string>
+  <key>c.002</key>
+  <string>c.002.glif</string>
+  <key>c.003</key>
+  <string>c.003.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
   <key>cedilla</key>
@@ -294,6 +300,8 @@
   <string>m.glif</string>
   <key>m.001</key>
   <string>m.001.glif</string>
+  <key>m.002</key>
+  <string>m.002.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
   <key>minus</key>
@@ -302,6 +310,8 @@
   <string>n.glif</string>
   <key>n.001</key>
   <string>n.001.glif</string>
+  <key>n.002</key>
+  <string>n.002.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.lf</key>
@@ -382,6 +392,8 @@
   <string>s.glif</string>
   <key>s.001</key>
   <string>s.001.glif</string>
+  <key>sandbox</key>
+  <string>sandbox.glif</string>
   <key>section</key>
   <string>section.glif</string>
   <key>semicolon</key>

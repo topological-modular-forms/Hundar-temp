@@ -21,24 +21,24 @@ o
       <point x="33" y="305"/>
     </contour>
     <contour>
-      <point x="222" y="351" type="curve" smooth="yes"/>
+      <point x="220" y="351" type="curve" smooth="yes"/>
       <point x="299" y="351"/>
-      <point x="354" y="282"/>
-      <point x="354" y="178" type="curve" smooth="yes"/>
-      <point x="354" y="92"/>
+      <point x="351" y="283"/>
+      <point x="351" y="178" type="curve" smooth="yes"/>
+      <point x="351" y="92"/>
       <point x="319" y="34"/>
       <point x="242" y="34" type="curve" smooth="yes"/>
       <point x="146" y="34"/>
-      <point x="110" y="129"/>
-      <point x="110" y="209" type="curve" smooth="yes"/>
-      <point x="110" y="304"/>
+      <point x="113" y="128"/>
+      <point x="113" y="211" type="curve" smooth="yes"/>
+      <point x="113" y="302"/>
       <point x="151" y="351"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-16 04:10:59 +0000</string>
+      <string>2025-05-16 16:16:08 +0000</string>
     </dict>
   </lib>
 </glyph>
