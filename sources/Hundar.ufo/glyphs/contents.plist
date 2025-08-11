@@ -394,6 +394,8 @@
   <string>s.001.glif</string>
   <key>sandbox</key>
   <string>sandbox.glif</string>
+  <key>sandbox.001</key>
+  <string>sandbox.001.glif</string>
   <key>section</key>
   <string>section.glif</string>
   <key>semicolon</key>

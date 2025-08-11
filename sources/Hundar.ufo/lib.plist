@@ -4,13 +4,11 @@
 <dict>
   <key>com.schriftgestaltung.DisplayStrings</key>
   <array>
-    <string>eat after sex feed
-/sandbox at aft/sandbox r s/sandbox x f/sandbox/sandbox d
-certain
-c/sandbox rtain
-abcde/sandbox 
+    <string>prism invincible stupid is
+pr/sandbox sm /sandbox nv/sandbox nc/sandbox ble stup/sandbox d /sandbox s
+abcdefghij/sandbox a
 prism
-Hundar</string>
+</string>
   </array>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3414</string>
@@ -470,6 +468,7 @@ Hundar</string>
     <string>y.001</string>
     <string>z.001</string>
     <string>sandbox</string>
+    <string>sandbox.001</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
