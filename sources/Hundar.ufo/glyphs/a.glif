@@ -71,16 +71,16 @@ a
       <point x="99" y="252"/>
       <point x="104" y="255" type="curve"/>
       <point x="107" y="291"/>
-      <point x="116" y="317"/>
-      <point x="125" y="333" type="curve"/>
-      <point x="142" y="342"/>
+      <point x="114" y="315"/>
+      <point x="120" y="331" type="curve"/>
+      <point x="141" y="341"/>
       <point x="165" y="349"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-10 22:31:06 +0000</string>
+      <string>2025-08-16 04:57:49 +0000</string>
     </dict>
   </lib>
 </glyph>
