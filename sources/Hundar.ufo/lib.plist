@@ -4,10 +4,9 @@
 <dict>
   <key>com.schriftgestaltung.DisplayStrings</key>
   <array>
-    <string>just jones japanese ajax
-/sandbox ust /sandbox ones /sandbox apanese a/sandbox ax
-/sandbox.001 ust /sandbox.001 ones /sandbox.001 apanese a/sandbox.001 ax
-abcdefghij/sandbox/sandbox.001 
+    <string>abcdefghij/sandbox/sandbox.001/sandbox.002 a
+imagination
+high
 prism
 </string>
   </array>
@@ -470,6 +469,7 @@ prism
     <string>z.001</string>
     <string>sandbox</string>
     <string>sandbox.001</string>
+    <string>sandbox.002</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>

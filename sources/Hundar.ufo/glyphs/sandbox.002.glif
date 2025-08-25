@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="i" format="2">
+<glyph name="sandbox.002" format="2">
   <advance width="264"/>
-  <unicode hex="0069"/>
   <note>
-i
+b
 </note>
   <outline>
     <contour>
@@ -61,7 +60,7 @@ i
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-24 08:05:15 +0000</string>
+      <string>2025-08-23 18:35:13 +0000</string>
     </dict>
   </lib>
 </glyph>
