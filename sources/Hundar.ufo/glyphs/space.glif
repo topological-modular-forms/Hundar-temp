@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="space" format="2">
-  <advance width="242"/>
+  <advance width="239"/>
   <unicode hex="0020"/>
   <note>
 space
@@ -9,7 +9,7 @@ space
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-07 19:45:10 +0000</string>
+      <string>2025-08-25 20:26:42 +0000</string>
     </dict>
   </lib>
 </glyph>
