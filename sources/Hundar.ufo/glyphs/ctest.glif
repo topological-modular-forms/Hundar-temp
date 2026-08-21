@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ctest" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="400" type="line"/>
+      <point x="100" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>fontra.markColor</key>
+        <string>0.89,0.22,0.22,1</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

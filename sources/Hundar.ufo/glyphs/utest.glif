@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utest" format="2">
+  <advance width="496"/>
+  <outline>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>fontra.markColor</key>
+        <string>0.23,0.35,0.81,1</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
